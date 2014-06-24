@@ -2,6 +2,8 @@
 Ævintýri
 ========
 
+.. line-block::
+
 Ísland heitir eyja á norðurpólnum,
 alein út við sjónarrönd.
 Álfadrottning fer úr undirkjólnum,

@@ -2,6 +2,8 @@
 Vísur Vatnsenda-Rósu
 ====================
 
+.. line-block::
+
 Augun mín og augun þín
 ó, þá fögru steina.
 Mitt er þitt og þitt er mitt,

@@ -2,6 +2,8 @@
 Smávinir fagrir
 ===============
 
+.. line-block::
+
 Smávinir fagrir, foldarskart,
 fífill í haga, rauð og blá
 brekkusóley, við mættum margt

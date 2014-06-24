@@ -2,6 +2,8 @@
 Ég heyri svo vel
 ================
 
+.. line-block::
+
 Ég heyri svo vel, ég heyri grasið gróa,
 ég heyri svo vel, ég heyri snjóinn snjóa,
 ég heyri svo vel, ég heyri orminn mjóa,

@@ -2,6 +2,8 @@
 Saknaðarljóð
 ============
 
+.. line-block::
+
 Hljótt er nú í húsum inni
 harmur býr i allra sinni
 hvar er litla Píla Pína
