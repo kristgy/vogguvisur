@@ -3,7 +3,6 @@ En þú varst ævintýri
 ====================
 
 .. line-block::
-
 Ég var hin þyrsta þyrnirós,
 en þú hið unga vín.
 Ég var hinn blindi, er bað um ljós,
