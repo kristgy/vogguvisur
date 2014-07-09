@@ -22,11 +22,3 @@ Vísur:
    visur_vatnsenda-rosu
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
