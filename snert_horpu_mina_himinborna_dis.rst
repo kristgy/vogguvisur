@@ -1,0 +1,26 @@
+=================
+Kvæðið um fuglana
+=================
+
+.. line-block::
+   Snert hörpu mína, himinborna dís,
+   svo hlusti englar Guðs í Paradís.
+   Við götu mína fann ég fjalarstúf,
+   og festi á hann streng og rauðan skúf.
+   
+   Úr furutré, sem fann ég út við sjó,
+   ég fugla skar og líka úr smiðjumó.
+   í huganum til himins oft ég svíf
+   og hlýt að geta sungið í þá líf.
+   
+   Þeir geta sumir synt á læk og tjörn,
+   og sumir verða alltaf lítil börn.
+   En sólin gyllir sund og bláan fjörð
+   og sameinar með töfrum loft og jörð.
+   
+   Ég heyri í fjarska villtan vængjaþyt.
+   Um varpann leikur draumsins perluglit.
+   Snert hörpu mína, himinborna dís,
+   og hlustið, englar Guðs í Paradís.
+
+Texti: Davíð Stefánsson frá Fagraskógi

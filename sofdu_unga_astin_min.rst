@@ -1,0 +1,24 @@
+====================
+Sofðu unga ástin mín 
+====================
+
+.. line-block::
+   Sofðu unga ástin mín, 
+   úti regnið grætur. 
+   Mamma geymir gullin þín, 
+   gamla leggi og völuskrín. 
+   Við skulum ekki vaka um dimmar nætur. 
+   
+   Það er margt sem myrkrið veit, 
+   minn er hugur þungur. 
+   Oft ég svartan sandinn leit, 
+   svíða grænan engireit. 
+   Í jöklinum hljóða dauðadjúpar sprungur. 
+   
+   Sofðu lengi, sofðu rótt, 
+   seint mun best að vakna. 
+   Mæðan kenna mun þér fljótt, 
+   meðan hallar degi skjótt, 
+   að mennirnir elska, missa, gráta og sakna.
+
+Texti: Jóhann Sigurjónsson 
