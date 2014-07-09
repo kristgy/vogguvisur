@@ -11,7 +11,6 @@ Vísur:
 .. toctree::
    :maxdepth: 2
 
-   aevintyri
    eg_heyri_svo_vel
    en_thu_varst_aevintyri
    haettu_ad_grata_hringana
@@ -27,4 +26,5 @@ Vísur:
    syneta
    til_eru_frae
    visur_vatnsenda-rosu
+   aevintyri
 
