@@ -15,6 +15,7 @@ Vísur:
    en_thu_varst_aevintyri
    haettu_ad_grata_hringana
    heyr_himna_smidur
+   horfid
    snert_horpu_mina_himinborna_dis
    krummi_svaf_i_klettagja
    kvolda_tekur_sest_er_sol
