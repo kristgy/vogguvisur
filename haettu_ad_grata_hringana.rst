@@ -6,7 +6,7 @@ Hœttu að gráta, hringaná!
    Hœttu að gráta, hringaná! 
    heyrðu rœðu mína: 
    ég skal gefa þér gull í tá, 
-   þó Grímur tœki þína. 
+   þó Grímur taki þína. 
    
    Hœttu að gráta, hringaná! 
    huggun er það meiri: 
