@@ -3,7 +3,7 @@ Sofðu unga ástin mín
 ====================
 
 .. line-block::
-   Sofðu unga ástin mín, 
+   Sofðu, unga ástin mín, 
    úti regnið grætur. 
    Mamma geymir gullin þín, 
    gamla leggi og völuskrín. 
