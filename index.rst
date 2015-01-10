@@ -11,6 +11,7 @@ Vísur:
 .. toctree::
    :maxdepth: 2
 
+   i_skolavorduholtid_hatt
    eg_heyri_svo_vel
    en_thu_varst_aevintyri
    grafskrift
@@ -30,6 +31,7 @@ Vísur:
    smavinir_fagrir
    sofdu_kalli
    sofdu_unga_astin_min
+   sumri_hallar
    syneta
    til_eru_frae
    visur_vatnsenda-rosu
