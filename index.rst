@@ -13,6 +13,7 @@ Vísur:
 
    eg_heyri_svo_vel
    en_thu_varst_aevintyri
+   grafskrift
    haettu_ad_grata_hringana
    heyr_himna_smidur
    hja_lygnri_modu
