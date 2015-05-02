@@ -34,6 +34,7 @@ Vísur:
    sumri_hallar
    syneta
    til_eru_frae
+   undir_blaum_solarsali
    visur_vatnsenda-rosu
    aevintyri
 
