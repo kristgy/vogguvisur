@@ -33,5 +33,5 @@ Lysthúskvæði
    lagst var allt í blundi.
    Listamaðurinn lengi þar við undi.
 
-   Texti: Eggert Ólafsson
+Texti: Eggert Ólafsson
 

@@ -26,6 +26,7 @@ Vísur:
    kyrrlatt_kvold
    lagdur_hja_rumi_cajsu_lisu_sidla_kvold_eitt
    lag_ljod
+   lygaramerki_a_tanum
    sakanadarljod
    sja_brodir_movitz
    smavinir_fagrir
